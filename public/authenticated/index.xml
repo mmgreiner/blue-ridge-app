@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authenticated on Blue Ridge Parkway Tour</title>
+    <link>http://example.org/authenticated/</link>
+    <description>Recent content in Authenticated on Blue Ridge Parkway Tour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/authenticated/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Authenticated Post</title>
+      <link>http://example.org/authenticated/another-post/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/authenticated/another-post/</guid>
+      <description>This is another authenticated post</description>
+    </item>
+    
+    <item>
+      <title>My Authenticated Post</title>
+      <link>http://example.org/authenticated/my-second-post/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/authenticated/my-second-post/</guid>
+      <description>Hallo Markus
+this should be visible only to authenticated persons</description>
+    </item>
+    
+  </channel>
+</rss>

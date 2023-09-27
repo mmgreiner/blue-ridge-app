@@ -1,4 +1,4 @@
 baseURL : "http://example.org/"
 languageCode : "en-us"
 title : "Blue Ridge Parkway Tour"
-theme :  "ananke"
+theme : ananke

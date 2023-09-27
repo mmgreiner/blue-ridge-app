@@ -1,0 +1,16 @@
+{
+    "routes": [
+        {
+            "route": "/posts/*",
+            "allowedRoles": [ "anonymous" ]
+        },
+        {
+            "route": "/authenticated/*",
+            "allowedRoles": [ "authenticated" ]
+        },
+        {
+            "route": "/family/*",
+            "allowedRoles": [ "family" ]
+        }
+    ]
+}
