@@ -1,2 +1,6 @@
 hugo-old.toml
 public/*
+
+# Local Netlify folder
+.netlify
+netlify.toml
