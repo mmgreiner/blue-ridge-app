@@ -1,6 +1,6 @@
-<table>
+<table class="w-100 center">
     <thead>
-        <tr>
+        <tr class="stripe-dark">
             <th>Day</th>
             <th>Date</th>
             <th>What</th>
@@ -11,7 +11,7 @@
     </thead>
     <tbody>
         {{ range $i, $e := .Site.Data.travel_plan }}
-        <tr>
+        <tr class="stripe-dark">
             <td>{{$i}}</td>
             <td>{{$e.date}}</td>
             <td>{{$e.what}}</td>

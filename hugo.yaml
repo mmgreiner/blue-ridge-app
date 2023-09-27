@@ -2,3 +2,7 @@ baseURL : "https://blue-ridge-journey.onrender.com/"
 languageCode : "en-us"
 title : "Blue Ridge Parkway Tour"
 theme : ananke
+
+params:
+  wiki_blueridge: "https://en.wikipedia.org/wiki/Blue_Ridge_Parkway"
+  
