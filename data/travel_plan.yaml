@@ -1,0 +1,102 @@
+# Travel plan
+- date: 2023-09-29
+  what: fly from Zurich to New Orleans
+  where: New Orleans
+  comment: "flight ZRH 11:20 to MSY 18:48" 
+  accom: "[International House Hotel](https://www.ihhotel.com)"
+- date: 2023-09-30
+  what: stay in new Orleans
+  where: New Orleans
+  accom: International House Hotel
+- date: 2023-10-01
+  what: stay again in new Orleans
+  where: New Orleans
+  accom: International House Hotel
+- date: 2023-10-02
+  what: pick up Harley and drive to Birmingham
+  where: New Orleans to Meridian
+  accom: open
+- date: 2023-10-03
+  what: drive with Harley
+  where: Birmingham, AL
+  accom: not yet decided
+- date: 2023-10-04
+  what: Visit Birmingham
+  where: Birmingham, AL
+  accom: to be decided
+  comment:
+- date: 2023-10-05
+  what: drive Birmingham to Cherokee
+  where: Birmingham to Cherokee
+  accom: open
+  comment:
+- date: 2023-10-06
+  what: drive Cherokee to Fancy Gap
+  where: Fancy Gap
+  accom: open
+  comment:
+- date: 2023-10-07
+  what: "hiking Smokey Mountains"
+  where: Smokey Mountains
+  accom: open
+  comment:
+- date: 2023-10-08
+  what: "drive Fancy Gap to Shenandoah N.P."
+  where: Shenandoah N.P
+  accom: open
+  comment:
+- date: 2023-10-09
+  what: hiking Shenandoah N.P.
+  where:
+  accom:
+  comment:
+- date: 2023-10-10
+  what: Drive Shenandoah N.P to Fairfax, VA
+  where: 
+  accom: "[Best Western Fairfax](https://www.bestwestern.com/en_US/book/hotels-in-fairfax/best-western-fairfax/propertyCode.47109.html)"
+  comment:
+- date: 2023-10-11
+  what: visit Washington DC
+  where: Washington DC
+  accom: "[Best Western Fairfax](https://www.bestwestern.com/en_US/book/hotels-in-fairfax/best-western-fairfax/propertyCode.47109.html)"
+  comment:
+- date: 2023-10-12
+  what: Fly Washington DC -> Detroit
+  where:
+  accom: 
+  comment: Flight American Airlines
+- date: 2023-10-13
+  what: sight seeing Detroit
+  where:
+  accom:
+  comment:
+- date: 2023-10-14
+  what: take amtrak from Detroit to Kalamazoo, MI
+  where: Michigan
+  accom: at Geil's
+  comment:
+- date: 2023-10-15
+  what: Stay in Kalamazoo
+  where:
+  accom:
+  comment:
+- date: 2023-11-16
+  what: take amtrak from Kalamazoo to Chicago, IL
+  where:
+  accom: at R. Eric Geil's
+  comment:
+- date: 2023-11-17
+  what: sight seeing Chicago
+  where:
+  accom:
+  comment:
+- date: 2023-11-18
+  what: Sight seeing Chicago
+  where:
+  accom:
+  comment:
+- date: 2023-11-19
+  what: Fly Chicago to Zürich
+  where:
+  accom:
+  comment:

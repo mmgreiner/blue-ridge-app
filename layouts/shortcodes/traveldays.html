@@ -1,0 +1,31 @@
+<table>
+    <thead>
+        <tr>
+            <th>Day</th>
+            <th>Date</th>
+            <th>What</th>
+            <th>Where</th>
+            <th>Accomodation</th>
+            <th>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $i, $e := .Site.Data.travel_plan }}
+        <tr>
+            <td>{{$i}}</td>
+            <td>{{$e.date}}</td>
+            <td>{{$e.what}}</td>
+            <td>{{$e.where}}</td>
+            <td>{{$e.accom | markdownify}}</td>
+            <td>{{$e.comment | markdownify}}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+
+<!-- 
+    day 3:
+  date: 2023-10-02
+  what: pick up Harley and drive to Birmingham
+  where: New Orleans, Birmingham
+-->
