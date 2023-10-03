@@ -16,7 +16,7 @@ Der Flug geht von Washington nach Südwesten, grosse Waldstücke überfliegen wi
 
 Oh Wunder, in New Orleans ist tatsächlich auch das gelbe Monster eingetroffen. Der Flughafen sieht sehr neu aus, bis mir einfällt, dass hier der [Hurricane Katrina](https://en.wikipedia.org/wiki/Hurricane_Katrina) 2005 die ganze Stadt zerstört hat. Aus dem klimatisierten Flughafen ins Freie erinnert mich an Tanzania oder die Südtürkei: heisse, angenehme Luft. **Welcome to New Orleans!** [^nola]
 
-[^nola]: Immer wieder treffe ich auf das Wort und wundere mich, was das bedeutet. Schliesslich finde ich es raus: Das steht für *N*ew *O*rleans, *LA* (Lousianna)
+[^nola]: Immer wieder treffe ich auf das Wort *Nola* und wundere mich, was das bedeutet. Schliesslich finde ich es raus: Das steht für *N*ew *O*rleans, *LA* (Lousianna)
 
 
 
@@ -102,7 +102,7 @@ All diese Namen kenne ich seit Kindheit, mein Vater hatte diese Schallplatten de
 
 Abends ist unglaublich viel los in der Bourbon Street. Auf der Strasse trommeln Buben auf Plastikeimern unglaubliche Rhythmen. 
 
-![Trommler](/images/img_0334.jpeg)
+![Trommler](/images/IMG_0337.jpeg)
 
 Zuerst gehe ich in eine kleine Bar mit einer [Cajun](https://en.wikipedia.org/wiki/Cajun_music) Band. Cajun Musik kenne ich von den alten [Prairie Home Companion](https://en.wikipedia.org/wiki/A_Prairie_Home_Companion) Radiosendungen, dich ich schon in den 80ger Jahren gehört habe. 
 

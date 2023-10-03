@@ -5,4 +5,6 @@ theme : ananke
 
 params:
   wiki_blueridge: "https://en.wikipedia.org/wiki/Blue_Ridge_Parkway"
+  eaglerider_nola: "https://www.eaglerider.com/neworleans"
+  
   
