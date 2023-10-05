@@ -1,6 +1,6 @@
 ---
-title: "Travel days"
-description: "The posts of my trip"
+title: "Reisetage"
+description: "Jeder Tag hat seine eigene Webseite"
 date: 2017-03-02T12:00:00-05:00
 featured_image: "/images/IMG_0324.jpeg" 
 menu:
