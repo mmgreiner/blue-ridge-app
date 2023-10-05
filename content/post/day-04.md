@@ -1,5 +1,5 @@
 ---
-title: "Tag 4: Riding to Birmingham"
+title: "Tag 4: Fahrt nach Birmingham, AL"
 date: 2023-10-02
 description: "Fahrt mit der Street Glide nach Birmingham"
 tags: ["New Orleans", "Birmingham", "I-59"]
@@ -12,6 +12,7 @@ Das Abenteuer beginnt, und ohne Kreditkarte.
 
 Stichwörter:
 
+- Taxifahrerin Renata
 - Easy Rider Gefühl
 - Rücken schmerzt
 - Zu gross, Kopf immer über der Scheibe
