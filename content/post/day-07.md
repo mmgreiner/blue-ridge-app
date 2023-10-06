@@ -1,5 +1,5 @@
 ---
-title: "Tag 7: Fahrt nach Birmingham, AL"
+title: "Tag 7: Wanderung in den Great Smokey Mountains"
 date: 2023-10-05
 description: "Wandern in den Great Smokey Mountains"
 tags: ["Great Smokey Mountains", "Hiking"]
