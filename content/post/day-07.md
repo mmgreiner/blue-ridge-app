@@ -3,7 +3,7 @@ title: "Tag 7: Fahrt nach Birmingham, AL"
 date: 2023-10-05
 description: "Wandern in den Great Smokey Mountains"
 tags: ["Great Smokey Mountains", "Hiking"]
-draft: true
+draft: false
 ---
 
 Wanderung Gregory Trail, zwei mal 5.5 miles. Text fehlt noch (*TO DO*)
