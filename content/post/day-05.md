@@ -12,23 +12,23 @@ Es ist schon morgens sehr heiss, ich beschliesse, nur mit einer leichten Hose un
 
 Die I-59 geht auf Stelzen mitten durch die Stadt, aber der Platz darunter wurde genützt für den sogenannten [BHAM City Walk](https://vimeo.com/743292033). Niemand ist unterwegs, aber die Dame im Visitor Center freut sich über den Besuch. 
 
-![BHAM](/images/IMG_0379.jpeg)
+![BHAM](/images/IMG_0379.jpeg "BHAM City Walk")
 
 Alles ist sehr gepflegt, aber menschenleer. Ich biege auf den Civil Rights Trail ab, zu Fuss, niemand ist hier zu Fuss unterwegs; es ist aber auch schon ziemlich heiss. 
 
-![Civil Rights Trail](/images/IMG_0382.jpeg)
+![Civil Rights Trail](/images/IMG_0382.jpeg "Civil Rights Trail")
 
 ![FountainHeights](/images/IMG_0383.jpeg)
 
 Nach 4 Blocks ist das [Birmingham Civil Rights Institute](https://www.birminghamal.org/listings/birmingham-civil-rights-institute/) erreicht. 
 
-![Civil Rights Institute](/images/IMG_0386.jpeg)
+![Civil Rights Institute](/images/IMG_0386.jpeg "Eingang zum Civil Rights Institute")
 
 Ein wunderbaren, klug strukturiertes Museum, das von der Gründung der Stadt Birmingham bis in die Gegenwart die Geschichte der Unterdrückung der Schwarzen und den Kampf um Bürgerrechte darstellt.
 
 [Birmingham, AL](https://en.wikipedia.org/wiki/Birmingham,_Alabama) wurde erst nach dem Bürgerkrieg 1871 gegründet, als Industriestadt für Stahl und Eisenbahn. Die Stadt wuchs schnell, europäische Immigranten und Schwarze Amerikaner schufteten in den Erzgruben und Stahlwerken. Und trotzdem war sie im 20. Jahrhundert die am stärksten *segregierte* Stadt der USA.
 
-![Drinking](/images/IMG_0384.jpeg)
+![Drinking](/images/IMG_0384.jpeg "Eingang zum Museum")
 
 Man kennt das alles aus Filmen wie z.B. [Green Book](https://en.wikipedia.org/wiki/Green_Book_(film)). Und doch erschüttert es mich, zu sehen, wie das Schulzimmer der weissen und der afroamerikanischen Kinder noch in den 50ger Jahren im Vergleich aussahen: Filmprojektor, grosse Pulte hier, einfache Holzbänke da. Ein Bus ist ausgestellt mit den Anweisungen, wer wo zu sitzen hat. Die Stadtquartiere waren strengstens getrennt, Hochzeiten zwischen Weissen und Afroamerikanern verboten. Der Ku Klux Klan mordete und lynchte. 
 
@@ -42,15 +42,15 @@ Dieses beklemmende Gefühl erinnert mich an mein Gefühl im jüdischen Museum in
 
 Gerade gegenüber ist die [16th Street Baptist Church](https://www.16thstreetbaptist.org).
 
-![16thBaptist](/images/IMG_0385.jpeg)
+![16thBaptist](/images/IMG_0385.jpeg "16th Street Baptist Church, Birmingham")
 
 Diese Kirche war ein Zentrum der Civil Rights Bewegung; sie wurde 1963 von Mitgliedern des Ku Klux Klans bombardiert, wobei 4 Mädchen und später 2 Buben ums Leben kamen. Spike Lee hat hierüber seinen Film [4 Little Girls](https://en.wikipedia.org/wiki/4_Little_Girls) gedreht.
 
 Gerade gegenüber ist der [Kelly Ingram Park](https://en.wikipedia.org/wiki/Kelly_Ingram_Park), der Ausgangspunkt der Protestmärsche in den Jahren der Civil Rights Bewegung.
 
-![KellyImgram1](/images/IMG_0389.jpeg)
+![KellyImgram1](/images/IMG_0389.jpeg "Kelly Ingram Park")
 
-![KellyImgram1](/images/IMG_0387.jpeg)
+![KellyImgram1](/images/IMG_0387.jpeg "Keyll Ingram Park")
 
 Nach dem erschütternden Besuch möchte ich etwas essen und laufe etwas durch die Strassen. Kaum jemand ist unterwegs.
 
@@ -58,9 +58,9 @@ Nach dem erschütternden Besuch möchte ich etwas essen und laufe etwas durch di
 
 Nach einem *organic salad* besuche ich noch das [Birmingham Museum of Art](https://www.artsbma.org). 
 
-![BMA1](/images/IMG_0397.jpeg)
+![BMA1](/images/IMG_0397.jpeg "Birmingham Museum of Art, Eingangshalle")
 
-![BMA2](/images/IMG_0398.jpeg)
+![BMA2](/images/IMG_0398.jpeg "Birmingham Museum of Arts, Innenhof")
 
 
 Es gibt eine bewegende Sonderausstellung. Der Fotograf [Dawoud Bey](https://en.wikipedia.org/wiki/Dawoud_Bey) hat, 60 Jahre nach dem Bombenattentat auf die 16th Baptist Church, Fotos zusammengestellt von Kindern, die so alt waren wie die Mordopfer damals, zusammen mit Erwachsenen, in dem Alter, in dem die Opfer heute wären. 

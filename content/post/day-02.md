@@ -2,7 +2,7 @@
 title: "Tag 2: New Orleans"
 date: 2023-09-30
 description: "Ankunft in New Orleans"
-tags: ["New Orleans"]
+tags: ["New Orleans", "Jazz"]
 draft: false
 ---
 
@@ -12,7 +12,7 @@ Der Flug nach New Orleans fliegt pünklich ab, wir haben einen sehr lustigen Fli
 
 Der Flug geht von Washington nach Südwesten, grosse Waldstücke überfliegen wir, und am Schluss das riesige Mississippi Delta, das ist genau die Gegend, die ich in der anderen Richtung durchqueren möchte. Etwas verwundert bin ich über das Ductape, mit dem das Triebwerk vorne abgedichtet ist.
 
-![Mississippi Delta](/images/IMG_0273.jpeg)
+![Mississippi Delta](/images/IMG_0273.jpeg "Lousiana aus der Vogelperspektive")
 
 Oh Wunder, in New Orleans ist tatsächlich auch das gelbe Monster eingetroffen. Der Flughafen sieht sehr neu aus, bis mir einfällt, dass hier der [Hurricane Katrina](https://en.wikipedia.org/wiki/Hurricane_Katrina) 2005 die ganze Stadt zerstört hat. Aus dem klimatisierten Flughafen ins Freie erinnert mich an Tanzania oder die Südtürkei: heisse, angenehme Luft. **Welcome to New Orleans!** [^nola]
 
@@ -30,7 +30,7 @@ Mit dem Taxi bin ich in 20 Minuten im Hotel [International House Hotel](https://
 
 Im Eingang hängt so gar ein [Banksy](https://en.wikipedia.org/wiki/Banksy)
 
-![Banksy](/images/IMG_0346.jpeg)
+![Banksy](/images/IMG_0346.jpeg "Banksy im Eingang des Hotels")
 
 Da ich zu früh bin (ich habe vergessen, dass ich schon wieder eine Zeitzone weiter westlich bin) und das Zimmer noch nicht bezugsbereit, gehe ich im French Quarter spazieren. Starten wir doch mit einem kleinen Brunch, dafür gehe ich ins [Kingfish](https://kingfishneworleans.com) und esse dort Kingfish and Crisp, fritierten Catfish auf Grütze. 
 
@@ -81,7 +81,7 @@ Es ist ziemlich windig, manche machen hier Pause.
 
 Früher war hier der Sklavenmarkt, eine Tafel erinnert daran. Anstatt nur von Sklaven zu versprechen (*Versklavte* ist sowieso zutreffender), sind hier die verschiedenen afrikanischen Völker bzw. Stämme aufgeführt, die nach USA entführt wurden: Wolof, Bambara, Mandingo, Fulbe, ...
 
-![Versklavte](/images/IMG_0312.jpeg)
+![Versklavte](/images/IMG_0312.jpeg "Gedenktafel an den Markt der Versklavten")
 
 ## Jazz Museum
 
@@ -93,7 +93,7 @@ Im  muss ich viel an meinen Vater denken. Es gibt einen Raum zu [King Oliver](ht
 
 All diese Namen kenne ich seit Kindheit, mein Vater hatte diese Schallplatten der Creole Jazz Band, die wir abends im Wohnzimmer (d.h. Chemineezimmer) gehört haben. Und bei [Louis Moreau Gottschalk]() kann ich mich an eine Radiosendung über Ragtime erinnert, wo ein Stück von ihm gespielt wurde; hier hängen Originalnoten von ihm.
 
-![New Olreans Jazz Museum](/images/IMG_0320.jpeg)
+![New Olreans Jazz Museum](/images/IMG_0320.jpeg "New Orleans Jazz Museum")
 
 [Louis Moreau Gotschalk]: https://en.wikipedia.org/wiki/Louis_Moreau_Gottschalk
 

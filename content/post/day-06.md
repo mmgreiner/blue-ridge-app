@@ -12,11 +12,11 @@ Es war wieder eine schweisstreibende Fahrt von Birmingham hierher. Dabei war die
 
 ![Abfahrt](/images/IMG_0401.jpeg)
 
-![Der Fahrer](/images/IMG_0402.jpeg)
+![Der Fahrer](/images/IMG_0402.jpeg "Ob das wohl gut geht?")
 
 An der Tankstelle in [Gadsden, AL](https://maps.app.goo.gl/FyFW9ZBZj458Kqc79)  kaufe ich mir etwas zu trinken, und ausserdem tut es immer gut, die Beine und den Rücken wieder zu strecken. Ich beschliesse, von der Interstate [I-59](https://en.wikipedia.org/wiki/Interstate_59), die mich seit der Küste begleitet, abzubiegen auf die kleinere [US-11](https://en.wikipedia.org/wiki/U.S._Route_11) [^roads].
 
-![Bavarian Meats](/images/IMG_0403.jpeg)
+![Bavarian Meats](/images/IMG_0403.jpeg "Bavarian Meats mit Schweizer Landjäger")
 
 [^roads]: Es ist unglaublich, jede amerikanische Interstate oder US Strasse hat einen eigenen Wikipedia Eintrag. 
 
@@ -34,11 +34,11 @@ Auf der [Route 411](https://en.wikipedia.org/wiki/U.S._Route_411) nach [Maryvill
 
 Gegen 6 Uhr treffe ich schliesslich am Ziel in [Townsend, TN](https://maps.apple.com/?address=E%20Chestnut%20Hill%20Rd,%20Townsend,%20TN%20%2037882,%20United%20States&ll=35.676187,-83.749483&q=My%20Location) ein, im [Highland Manor Inn][HighlandManor] am Fuss der Smokey Mountains. 
 
-![Highland Manor Inn](/images/IMG_0410.jpeg)
+![Highland Manor Inn](/images/IMG_0410.jpeg "Highland Manor Inn, Townsend TN")
 
 Dies ist eine sehr christliche Gegend, sogar das Passwort für das Wifi lautet: *Psalms100*. [^Psalm100]. Und auf dem Tisch liegt die aufgeschlagene Bibel:
 
-![Bibel](/images/IMG_0407.jpeg)
+![Bibel](/images/IMG_0407.jpeg "Bibel aufgeschlagen am Tischchen")
 
 Beim Znacht fragt mich die Kellnerin nach meinem Akzent (alle fragen mich). Es stellt sich heraus, dass sie vor vielen Jahren aus Pirmasens in die USA gezogen ist, zusammen mit dem damaligen Mann, einem US Soldaten (war ja klar bei Pirmasens). 
 

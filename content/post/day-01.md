@@ -12,7 +12,7 @@ Der gelbe Sack, den ich gekauft habe, weil ich ja schlecht den Koffer hinten an 
 
 Ich war die ganzen Tage schon nervös, ganz alleine auf solch eine Reise ist schon etwas verschroben. Ruhiger werde ich erst, als ich in Zürich den gelben Dufflebag eingecheckt habe und am Sprüngli mir einen Capuccino gönne.
 
-![Cappuccino beim Sprüngli](/images/IMG_0267.jpeg)
+![Cappuccino beim Sprüngli](/images/IMG_0267.jpeg "Der letzte gute Cappuccino vor der Reise")
 
 ## Getrandet in Washington, DC
 
@@ -27,7 +27,7 @@ Irgendwann finde ich dann sogar den Lufthansa Service Schalter, die mir einen Vo
 - Nicht mindestens 3 Stunden eingerechnet bei der Einreise in die USA
 - Keine Wechselunterwäsche im Handgepäck.
 
-![Hilton Airport Washington](/images/IMG_0270.jpeg)
+![Hilton Airport Washington](/images/IMG_0270.jpeg "Hilton Airport Washington D.C.")
 
 Nur dass man für dieses Geld in Washington eigentlich nichts bekommt, aber mindestens habe ich ein Zimmer. Beim Dinner in der Bar fallen mir wieder die vielen sehr dicken Menschen auf, auch bei diesem wahrscheinlich doch wohlhabenden Hilton Publikum. Am Nachbartisch streiten sich 4 ältere Männer um Politik, ein lautstarker Trump Verehrer beklagt sich über Bidens Schuldenmacherei, die moderaten am Tisch sind deutlich weniger laut.
 
