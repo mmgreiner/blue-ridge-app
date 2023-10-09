@@ -4,7 +4,10 @@ title : "Blue Ridge Parkway Tour"
 theme : ananke
 
 params:
-  wiki_blueridge: "https://en.wikipedia.org/wiki/Blue_Ridge_Parkway"
   eaglerider_nola: "https://www.eaglerider.com/neworleans"
+  wiki_blueridge: "https://en.wikipedia.org/wiki/Blue_Ridge_Parkway"
+  wiki_shenandoah: https://en.wikipedia.org/wiki/Shenandoah_National_Park
+  nps_blueridge: "https://www.nps.gov/blri/planyourvisit/roadclosures.htm"
+  nps_shenandoah: "https://www.nps.gov/shen/index.htm"
   
   
