@@ -3,7 +3,7 @@ title: "Tag 10: Roanoke nach Staunton, VA"
 date: 2023-10-08
 description: "Abschluss des Blue Ridge Parkway"
 tags: ["Blue Ridge Parkway", "Roanoke", "Troutville", "Staunton"]
-draft: true
+draft: false
 ---
 
 Es ist immer noch kalt morgens. Ich packe wieder alles auf die Harley und fahre gegen Süden um wieder auf den Blue Ridge Parkway zu kommen. 
@@ -45,9 +45,7 @@ Znacht im [Cracker Barrel](https://www.crackerbarrel.com/Locations/States/va/sta
 
 Abends liege ich Bett und schaue CNN an, was in Israel passiert. 700 Tote, eine nicht genannte Anzahl Entführter, Israel hat der Hammas den Krieg erklärt, Reserven werden einberufen. Ich habe Ilan Vinner von ProImage in Isarel geschrieben, aber keine Antwort erhalten. Izzet hat mir gestern versichert, dass alle bei ProImage in Sicherheit sind. Aber heute wird auch Tel Aviv bombariert.
 
-
-
-Irgendwann wird es mir zu viel, ich schalte um. Es kommt Forensic Files", alte Polizeifälle. Und ein Fall ist genau derselbe Bericht, den ich auf meiner Velotour mit Eric durch Kalifornien schon gesehen habe, über einen Mann, der vorgetäuscht hat, seine Frau sei in der Badewanne ertrunken.
+Irgendwann wird es mir zu viel, ich schalte um. Es kommt "Forensic Files", alte Polizeifälle. Und ein Fall ist genau derselbe Bericht, den ich auf meiner Velotour mit Eric durch Kalifornien schon gesehen habe, über einen Mann, der vorgetäuscht hat, seine Frau sei in der Badewanne ertrunken.
 
 
 [Shenandoah]: {{<param nps_shenandoah>}}
