@@ -6,25 +6,41 @@ tags: ["Skydrive Parkway", "Staunton", "Fairfax", "Shenandoah"]
 draft: false
 ---
 
-Es ist knapp über Null Grad morgens, nach dem Zmorgen (an allen Best Western Motels gibt es ganau dasgleiche Angebot [^zmorgen], langsam habe ich es gesehen) fahre ich Richtung Parkway. 
+Es ist knapp über Null Grad morgens, nach dem Zmorgen (an allen Best Western Motels gibt es genau dasgleiche Angebot [^zmorgen], langsam habe ich es gesehen) fahre ich Richtung Parkway. 
 
 Hier hört der Blueridge Parkway auf und beginnt der [Skyline Drive](https://en.wikipedia.org/wiki/Skyline_Drive) durch den [Shenandoah National Park][Shenandoah]. 
 
-> Skyline Drive is a 105-mile (169 km) National Parkway that runs the entire length of the National Park Service's [Shenandoah National Park][Shenandoah] in the Blue Ridge Mountains of Virginia, generally along the ridge of the mountains. 
+## Geschichte
+Der erste Nationalpark der USA war der Yellowstone National Park, der 1872 von Congress per Gesetz eingerichtet wurde, gefolgt vom Yosemite National Park 1890. (Zum  Vergleich: der Schweizer Nationalpark im Engadin wurde 1914 gegründet, und war der erste der ganzen Alpen [^nationalpark]).  Der [Shenandoah National Park][Shenandoah] wurde nach langen Diskussionen über die Finanzierung und die Landenteignung schlussendlich 1935 gegründet. [^history] Damals herrschte in Virgina Segregation, und der Park war nur für Weisse zugänglich. Es dauerte bis 1950, bis alle Restaurants und Camping Plätze für alle zugänglich waren.
 
-Genau das war die Idee dieses Drives, als er xxx konzipiert wurde: Die Strasse verläuft immer am Grad, so dass man über die Berge fliegt.
+Eine ursprüngliche Idee des Shenandoah Parks war ein Parkway mit:
 
-*TODO*:
-- nur 35 mi/h, aber dafür kein Verkehr, ich cruise dahin
-- bin die ganze Zeit am Frieren, halte am Big Meadows Visitor Center gibt es eine gute Minestrone.
-- Denkfehler: Ich kann nicht am selben tag noch Töff fahren und ihn abgeben und in ein Motel einchecken. 
+> the "greatest single feature" to be a "sky-line drive" that would provide views of the Shenandoah Valley to the west and the Piedmont to the east. [^history]
+
+Präsident Franklin D Roosevelt war von der Aussicht im Shenandoah N.P. sehr beeindruckt, und etablierte während der Depression eine der ersten [Civilian Conservation Corps CCC](https://en.wikipedia.org/wiki/Civilian_Conservation_Corps), um den Parkway zu errichten. 
+
+> Skyline Drive is a 105-mile (169 km) National Parkway that runs the entire length of the National Park Service's [Shenandoah National Park][Shenandoah] in the Blue Ridge Mountains of Virginia, generally along the ridge of the mountains. [^history]
 
 
-![](/images/IMG_0517.jpeg)
-![](/images/IMG_0518.jpeg)
+[^history]: siehe [Wikipedia: Shenandoah N.P History](https://en.wikipedia.org/wiki/Shenandoah_National_Park#History)
+
+[^nationalpark]: siehe [Wikipedia: Schweizerische Nationalpark](https://de.wikipedia.org/wiki/Schweizerischer_Nationalpark)
+
+Genau das war die Idee dieses Parkways, als er in den 30ger Jahren konzipiert wurde: Die Strasse verläuft immer am Grad, so dass man über die Berge fliegt und links und rechts in die Täler hinabblicken kann.
+
+## Mich friert's
+Im Unterschied zum [Blue Ridge Parkway]({{<param nps_blueridge>}}) darf man hier nur 35 miles/h fahren, aber da niemand unterwegs ist, komme ich trotzdem schnell voran. Es ist aber sehr kalt und der Wind bläst und es hat Nebelschwaden. 
+
+![](/images/IMG_0517.jpeg "Skydrive")
+![](/images/IMG_0518.jpeg "Skydrive")
+
+Am Big Meadows Visitor Center muss ich anhalten, ich bin durchgefohren. Zum Glück gibt es dort eine gute Minestrone, die mich aufwärmt.
+
 ![](/images/IMG_0519.jpeg)
 ![](/images/IMG_0520.jpeg)
 ![](/images/IMG_0521.jpeg)
+
+Schon am Vortag hatte ich einen Denkfehler in meiner Planung für Fairfax bei Washington entdeckt: ich kann unmöglich morgens noch Töff fahren und Mittags schon abgeben. Was mache ich mit dem Gepäck? Ich habe also schon am Vorabend einen Tag früher im Best Western Fairfax gebucht, so dass ich das Gepäck versorgen kann und morgens in aller Ruhe die Harley abgeben.
 
 
 ![](/images/IMG_0522.jpeg)
