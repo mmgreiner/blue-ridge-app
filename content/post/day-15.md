@@ -46,7 +46,10 @@ Zum Bild des [Pöstlers Joseph Roulin](https://dia.org/collection/portrait-postm
 ![](/images/IMG_0605.jpeg)
 ![](/images/IMG_0609.jpeg)
 
+### James Barnor
 Ausstellung [James Barnor](https://dia.org/jamesbarnor)
+
+![](https://dia.org/sites/default/files/styles/responsive_exhibition_image_1520_x_760_/public/2022-11/E2022.131.jpg.webp?itok=PUh6ploj)
 
 [DIA]: https://dia.org
 
