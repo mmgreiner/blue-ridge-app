@@ -47,7 +47,11 @@ Auch sie weisst immer wieder darauf hin, dass hier nur wenige Frauen oder Minder
 ![](/images/IMG_0547.jpeg "Statue Martin Luther King")
 ![](/images/IMG_0549.jpeg "Suffragettes, Kämpferinnen für das Frauenstimmrecht")
 
-Als die Tour zu Ende ist, kann man freiwillig noch die Chambers, die Räume des Senats oder des House of Representatives besichtigen. Internatioinale Gäste müssen ihre Pässe zeigen, alle müssen die *electronic devices* abgeben. Dann werden wir in Gruppen in die Räume geführt, ich gehe in den Senat. Da ist leider niemand, nur 2 Männer inspizieren die Mikrofone. Die Pulte der Senatoren scheinen noch älter zu sein als die im Bundeshaus, und ich frage mich, ob hier noch per Hand abgestimmt wird.
+Als die Tour zu Ende ist, kann man freiwillig noch die Chambers, die Räume des Senats oder des House of Representatives besichtigen. Internatioinale Gäste müssen ihre Pässe zeigen, alle müssen die *electronic devices* abgeben und bekommen dann einen *International Pass*, der 3 Jahre gültig ist.
+
+![](/images/IMG_0584.jpeg)
+
+Dann werden wir in Gruppen in die Räume geführt, ich gehe in den Senat. Da ist leider niemand, nur 2 Männer inspizieren die Mikrofone. Die Pulte der Senatoren scheinen noch älter zu sein als die im Bundeshaus, und ich frage mich, ob hier noch per Hand abgestimmt wird.
 
 ![](/images/IMG_0553.jpeg "Congress vom Mall aus gesehen")
 ![](/images/IMG_0556.jpeg "Congress vom Mall aus gesehen")
