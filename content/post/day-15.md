@@ -10,7 +10,12 @@ draft: false
 
 ![](/images/IMG_0590.jpeg "Im Lift des Best Western")
 
-Eine kurze Kopfrechnung zeigt mir, dass es günstiger ist, ein Auto zu mieten, als mich den ganzen Tag mit Uber zu bewegen. *Public Transportation* ist auch 40 Jahre später unglaublich kompliziert und langsam, ich müsste 4 mal umsteigen auf einer Busfahrt nach Detroit Downtown. Ich beschliesse, ein Mietauto zu nehmen. Gerade neben dem Best Western ist ein *Enterprise Rent-A-Car*, aber er hat nur Trucks. Ich miete also den kleinsten Lieferwagen, den sie haben, für einen Tag, es kostet weniger als ein normaler Personenwagen. Stolz nenne ich den Lieferwagen meinen *Poor man's SUV*.
+Beim Zmorgen kommen die meisten im Pyjama, was, bei grösserer Körperfülle, nicht immer ein romantischer Anblick ist. 
+Mehr Sorge machen wir 2 Männer, einer mit Krücke, ein anderer ziemlich verwirrt, die aussehen, als würden sie am Parkplatz übernachten und nur zum Aufwärmen und Essen ins Best Western kommen.
+
+Am TV im Breakfast Room läuft Fox TV mit Berichten aus Israel und Gaza. Eine nicht mehr ganz junge, kleine rothaarige Frau unterhält sich mit der Angestellten. Sie sorgt sich um ihren Sohn in Israel, und sagt: "Why is it always us jews? Why us?"
+
+Später zeigt mir eine kurze Kopfrechnung, dass es günstiger ist, ein Auto zu mieten, als mich den ganzen Tag mit Uber zu bewegen. *Public Transportation* ist auch 40 Jahre später unglaublich kompliziert und langsam, ich müsste 4 mal umsteigen auf einer Busfahrt nach Detroit Downtown. Ich beschliesse, ein Mietauto zu nehmen. Gerade neben dem Best Western ist ein *Enterprise Rent-A-Car*, aber er hat nur Trucks. Ich miete also den kleinsten Lieferwagen, den sie haben, für einen Tag, es kostet weniger als ein normaler Personenwagen. Stolz nenne ich den Lieferwagen meinen *Poor man's SUV*.
 
 ![](/images/IMG_0592.jpeg "Mein Armeleute SUV")
 
@@ -56,10 +61,11 @@ Ausstellung [James Barnor](https://dia.org/jamesbarnor)
 ## Downtown
 
 **TODO**
-- Rennaissance Center
-- People Mover
-- Parkhäuser
+- [ ] Rennaissance Center
+- [ ] People Mover
+- [ ] Parkhäuser
 
+### Riverfront und Rennaissance Center 
 ![](/images/DSCF1902.jpeg)
 ![](/images/DSCF1907.jpeg)
 ![](/images/DSCF1910.jpeg)
@@ -90,10 +96,19 @@ Zumindestens von New York habe ich Podcasts gehört, dass Freeways gezielt so ge
 [^codeswitch]: [Code Switch 2022: The battle of Forrest Hill](https://www.npr.org/2022/05/19/1100253582/school-colors-episode-3-the-battle-of-forest-hills)
 
 ## Corktown
+
+Gemäss [Visit Detroit](https://visitdetroit.com/itinerary/corktown-a-day-in-the-d/) ist Corktown:
+
+> Detroit’s oldest neighborhood, named for Irish settlers, is rapidly redefining itself.
+> Discover why Corktown is making headlines across the country.
+
 ![](/images/IMG_0643.jpeg)
 ![](/images/IMG_0644.jpeg)
-![](/images/IMG_0645.jpeg)
+
+Ich bin durstig, und  [Nemo's](https://nemosdetroit.com) ist eine richtige Bar für *white old men*, mit Football und diversesten Biersorten.
+
 ![](/images/IMG_0646.jpeg)
+![](/images/IMG_0645.jpeg)
 
 
 ## Farmington Hills
