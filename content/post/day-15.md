@@ -31,13 +31,14 @@ Später zeigt mir eine kurze Kopfrechnung, dass es günstiger ist, ein Auto zu m
 
 ### Diego Rivera
 
-[Diego Rivera](https://en.wikipedia.org/wiki/Diego_Rivera), Partner von [Frida Kahlo](https://en.wikipedia.org/wiki/Frida_Kahlo)
+[Diego Rivera](https://en.wikipedia.org/wiki/Diego_Rivera), Partner von [Frida Kahlo](https://en.wikipedia.org/wiki/Frida_Kahlo), der er aber nicht gut getan hat mit seinem Fremdgehen und Gewaltausbrüchen. In USA hat er etliche bedeutende Gebäude mit seinen Murials ausgestattet, so auch den Innenhof des DIA.
 
 ![](/images/IMG_0597.jpeg "Diego Rivera Murial")
 ![](/images/IMG_0598.jpeg)
 ![](/images/IMG_0600.jpeg)
 
-### Van Gogh
+
+### Van Gogh
 
 Die Van Gogh Ausstellung ist schon zu Ende, aber sehr bedeutende Werke sind in Besitz des [DIA][DIA]
 ![](/images/IMG_0601.jpeg)
@@ -48,15 +49,34 @@ Zum Bild des [Pöstlers Joseph Roulin](https://dia.org/collection/portrait-postm
 
 ### African American Art
 
-![](/images/IMG_0605.jpeg)
-![](/images/IMG_0609.jpeg)
+In einem Trakt befindet sich [African American Art](https://dia.org/collection/center-african-american-art)
+
+Am Ende des Trakts befindet sich dieses Gemälde: 
+![](/images/IMG_0605.jpeg "'Something You Can Feel' Mickalene Thomas, 2008")
+
+Es ist mit Stoff und Glitzer/Glimmer gestaltet, auf dem Foto ist das schwer erkenntlich. Valerie J. Mercer, curator of African American, schreibt darüber: 
+
+> 'Something You Can Feel' by Mickalene Thomas exemplifies her talent in creating uniquely evocative portraits of black women that subvert traditional notions of the African American body. The painting’s glitter, beading, sequins, and Swarovski rhinestones add texture and light that emphasize many of its details, such as its textile patterns reminiscent of the 1970s, the black outline of the woman's figure, the netting of her hat, etc. The tactile quality of the dazzling artwork is heightened by Thomas’s use of varnish that causes the entire painting to remind us of glossy photographs of the past.” [^Mercer]
+
+![](/images/IMG_0609.jpeg "'Quilting time' Romare Bearden, 1986")
+
+Vor diesem Bild von [Romare Bearden](https://en.wikipedia.org/wiki/Romare_Bearden) bleibe ich stehen, weil es etwas zeigt, was ich sonst nicht oft gesehen habe: Afroamerikanisches Leben auf dem Dorf, Frauen sitzen zusammen und nähen eine Quiltdecke, der Mann spielt Gitarre dazu.
+
+![](https://assets3.thrillist.com/v1/image/1715490/0x0/scale;webp=auto;jpeg_quality=60.jpg "'Watson and the Sharp' John Sigleton Copley, 1782") 
+
+[Watson and the Shark](https://en.wikipedia.org/wiki/Watson_and_the_Shark) ist ein Ölgemälde von John Singleton Copley. Der 14 jährige Brook Watson hat bei der Attacke ein Bein verloren und bekam später ein Holzbein, und wurde Lord Mayor of London.
+
+Entweder hier, oder in Birmingham, habe ich eine moderne Interpration dieses Bildes gesehen, mit 6 schwarzen Frauen. Leider findet selbst Google dieses Bild nicht mehr. 
+
 
 ### James Barnor
-Ausstellung [James Barnor](https://dia.org/jamesbarnor)
+Die Sonderausstellung der Fotografien von [James Barnor](https://dia.org/jamesbarnor) umfasst mehrere Räume. [James Barnor](https://en.wikipedia.org/wiki/James_Barnor) hat abwechseln in Ghana und London gelebt und das Alltagsleben fotografiert. Der Gang durch die Räume ist auch ein Gang durch die Fotografiegeschichte, denn er hatte in Ghana die erste Vertretung von Agfa-Gevaert. Er hat viel für [Drum](https://www.snl24.com/drum) fotografiert, ein südafrikanisches Mode- und Lifeestyle Magazin. Wieder wird mir bewusst, wie wenig wir in Europa wissen vom reichen Leben südlich von uns.
 
 ![](https://dia.org/sites/default/files/styles/responsive_exhibition_image_1520_x_760_/public/2022-11/E2022.131.jpg.webp?itok=PUh6ploj)
 
 [DIA]: https://dia.org
+
+[^Mercer]: Zitiert aus <https://www.thrillist.com/lifestyle/detroit/detroit-institute-of-arts-the-best-paintings-in-the-art-museum>
 
 ## Downtown
 
@@ -66,25 +86,25 @@ Ausstellung [James Barnor](https://dia.org/jamesbarnor)
 - [ ] Parkhäuser
 
 ### Riverfront und Rennaissance Center 
-![](/images/DSCF1902.jpeg)
-![](/images/DSCF1907.jpeg)
-![](/images/DSCF1910.jpeg)
-![](/images/DSCF1913.jpeg)
-![](/images/DSCF1917.jpeg)
-![](/images/DSCF1918.jpeg)
-![](/images/DSCF1923.jpeg)
-![](/images/DSCF1924.jpeg)
-![](/images/DSCF1925.jpeg)
+![](/images/DSCF1902.jpeg "902")
+![](/images/DSCF1907.jpeg "907")
+![](/images/DSCF1910.jpeg "910")
+![](/images/DSCF1913.jpeg "913")
+![](/images/DSCF1917.jpeg "917")
+![](/images/DSCF1918.jpeg "918")
+![](/images/DSCF1923.jpeg "923")
+![](/images/DSCF1924.jpeg "924")
+![](/images/DSCF1925.jpeg "925")
 
-![](/images/IMG_0614.jpeg)
-![](/images/IMG_0615.jpeg)
-![](/images/IMG_0616.jpeg)
-![](/images/IMG_0620.jpeg)
-![](/images/IMG_0623.jpeg)
-![](/images/IMG_0630.jpeg)
-![](/images/IMG_0631.jpeg)
-![](/images/IMG_0633.jpeg)
-![](/images/IMG_0635.jpeg)
+![](/images/IMG_0614.jpeg "614")
+![](/images/IMG_0615.jpeg "615")
+![](/images/IMG_0616.jpeg "616")
+![](/images/IMG_0620.jpeg "620")
+![](/images/IMG_0623.jpeg "623")
+![](/images/IMG_0630.jpeg "630")
+![](/images/IMG_0631.jpeg "631")
+![](/images/IMG_0633.jpeg "633")
+![](/images/IMG_0635.jpeg "635")
 
 
 [Metrotimes Artikel: How Detroit ended up with the worst public transit](https://www.metrotimes.com/news/how-detroit-ended-up-with-the-worst-public-transit-2143889)
@@ -151,3 +171,5 @@ Der Weg zur Highschool erscheint mir kürzer als vor 40 Jahren.
 ![](/images/IMG_0653.jpeg)
 ![](/images/IMG_0654.jpeg)
 ![](/images/IMG_0656.jpeg)
+
+
